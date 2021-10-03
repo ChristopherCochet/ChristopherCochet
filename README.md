@@ -4,7 +4,7 @@ I live in New Zealand and work in the data analytics and data science space. I a
 
 I thrive in environments where I can bridge the gap between business and analytics/data science/technology.
 
-You'll find some fun examples of data science and cloud projects
+Trust that you'll find some fun examples of data science and cloud projects here.
 
 :mailbox: Don't hesitate to reach out out!
 
