@@ -8,7 +8,7 @@ You'll find some fun examples of data science and cloud projects
 :mailbox: Don't hesitate to reach out out!
 
 
-- 🔭 I’m currently working @Xero, an awesome cloud accounting software company : [xero](xero.com)
+- 🔭 I’m currently working @Xero, an awesome cloud accounting software company : [xero](www.xero.com)
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 📫 How to reach me: christopher.cochet@gmail.com.
 - 😄 Fun fact: I love hiking volcanoes.
