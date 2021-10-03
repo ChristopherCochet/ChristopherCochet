@@ -10,6 +10,6 @@ You'll find some fun examples of data science and cloud projects
 
 
 - 🔭 I’m currently working @Xero, an awesome cloud accounting software company : [Xero](https://www.xero.com)
-- :computer: I also mentor students and data professional at : [Data Science Dream Job](https://www.datasciencedreamjob.com/).
+- :computer: I also mentor students and data professionals at : [Data Science Dream Job](https://www.datasciencedreamjob.com)
 - 📫 How to reach me: christopher.cochet@gmail.com.
 - 😄 Fun fact: I love hiking volcanoes.
