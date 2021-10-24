@@ -6,10 +6,11 @@ I thrive in environments where I can bridge the gap between business and analyti
 
 I trust that you'll find some fun examples of data science and cloud projects here including end to end deployment ML pipeline.
 
-:mailbox: Don't hesitate to reach out out!
+:mailbox: Feedback appreciated, don't hesitate to reach out out!
 
 
 - 🔭 I’m currently working @Xero, an awesome cloud accounting software company : [Xero](https://www.xero.com)
 - :computer: I also mentor students and data professionals @[Data Science Dream Job](https://www.datasciencedreamjob.com)
+- I'm active on linked-in [https://www.linkedin.com/in/christophercochet/]
 - 📫 How to reach me: christopher.cochet@gmail.com.
 - 😄 Fun fact: I love hiking volcanoes.
