@@ -11,6 +11,6 @@ I trust that you'll find some fun examples of data science and cloud projects he
 
 - 🔭 I’m currently working @Xero, an awesome cloud accounting software company : [Xero](https://www.xero.com)
 - :computer: I also mentor students and data professionals @[Data Science Dream Job](https://www.datasciencedreamjob.com)
-- I'm active on [linked-in](https://www.linkedin.com/in/christophercochet)
+- ![image](https://user-images.githubusercontent.com/39317551/138610323-f93614d5-07de-4138-887e-f47c2b5b60c3.png) I'm active on [linked-in](https://www.linkedin.com/in/christophercochet)
 - 📫 How to reach me: christopher.cochet@gmail.com.
 - 😄 Fun fact: I love hiking volcanoes.
