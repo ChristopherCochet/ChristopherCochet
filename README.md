@@ -14,3 +14,5 @@ I trust that you'll find some fun examples of data science and cloud projects he
 - ![image](https://user-images.githubusercontent.com/39317551/138610323-f93614d5-07de-4138-887e-f47c2b5b60c3.png) I'm active on [linked-in](https://www.linkedin.com/in/christophercochet)
 - 📫 How to reach me: christopher.cochet@gmail.com.
 - 😄 Fun fact: I love hiking volcanoes.
+
+<a href="https://www.linkedin.com/in/christophercochet/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
