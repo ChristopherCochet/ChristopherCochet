@@ -4,7 +4,7 @@ I live in New Zealand and work in the data analytics and data science space. I a
 
 I thrive in environments where I can bridge the gap between business and analytics/data science/technology: [read about purple profiles](https://deloitte.wsj.com/articles/purple-people-at-the-heart-of-cognitive-tech-1452142924).
 
-I trust that you'll find some fun examples of data science and cloud projects here including end to end deployment ML pipeline.
+I trust that you'll find some fun examples of data science use cases and cloud projects here including end to end deployment ML pipelines.
 
 :mailbox: Feedback appreciated, don't hesitate to reach out out!
 
