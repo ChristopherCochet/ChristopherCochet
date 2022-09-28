@@ -10,7 +10,6 @@ I trust that you'll find some fun examples of data science use cases and cloud p
 
 
 - 🔭 I’m currently working @Xero, an awesome cloud accounting software company helping small business streamline their operations: [Xero](https://www.xero.com)
-- :computer: I also mentor students and data professionals @[Data Science Dream Job](https://www.datasciencedreamjob.com)
 - I'm active on <a href="https://www.linkedin.com/in/christophercochet/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
 - 📫 How to reach me: christopher.cochet@gmail.com.
 - 😄 Fun fact: I love hiking volcanoes.
