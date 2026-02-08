@@ -44,9 +44,7 @@ I'm a **Data Analytics & Data Science professional** based in **New Zealand** �
 ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
 
-## 📊 GitHub Activity
-
-![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChristopherCochet&theme=default)
+## 📊 Top Languages by Repository
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChristopherCochet&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChristopherCochet&theme=default)
