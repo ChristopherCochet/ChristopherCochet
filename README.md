@@ -50,7 +50,11 @@ I'm a **Data Analytics & Data Science professional** based in **New Zealand** �
 
 ## 🚀 Featured Projects
 
-Check out my pinned repositories below for examples of:
+Check out my portfolio website for detailed projects and case studies:
+
+### [🌐 Portfolio Website](https://christophercochet.github.io)
+
+Explore examples of my work in data science, machine learning, and cloud engineering including:
 - 🛒 Retail customer segmentation & market basket analysis
 - 🔧 Predictive maintenance solutions
 - ☁️ AWS infrastructure with Terraform
