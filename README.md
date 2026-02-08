@@ -46,17 +46,15 @@ I'm a **Data Analytics & Data Science professional** based in **New Zealand** �
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChristopherCochet&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180">
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristopherCochet&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="180">
-</p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChristopherCochet&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true)](https://github.com/ChristopherCochet)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChristopherCochet&theme=radical&hide_border=true" alt="GitHub Streak" height="180">
-</p>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristopherCochet&layout=compact&theme=tokyonight&hide_border=false)](https://github.com/ChristopherCochet)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ChristopherCochet&theme=tokyonight&hide_border=false)](https://github.com/ChristopherCochet)
+
+</div>
 
 ## 🚀 Featured Projects
 
