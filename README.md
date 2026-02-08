@@ -54,11 +54,12 @@ I'm an **Analytics Engineering professional** based in **New Zealand** 🇳🇿,
 
 ## 🚀 Featured Projects
 
-Check out my portfolio website for detailed projects and case studies:
+### [🔄 dbt Automated Pipeline](https://github.com/ChristopherCochet/dbt-automated-pipepline)
+Modern data transformation pipeline with dbt, demonstrating best practices in analytics engineering and automated data workflows.
 
 ### [🌐 Portfolio Website](https://christophercochet.github.io)
 
-Explore examples of my work in data science, machine learning, and cloud engineering including:
+Check out my portfolio for more detailed projects and case studies including:
 - 🛒 Retail customer segmentation & market basket analysis
 - 🔧 Predictive maintenance solutions
 - ☁️ AWS infrastructure with Terraform
