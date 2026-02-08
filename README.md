@@ -44,20 +44,12 @@ I'm a **Data Analytics & Data Science professional** based in **New Zealand** �
 ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-<div align="center">
+![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChristopherCochet&theme=default)
 
-<img src="https://github-readme-stats.vercel.app/api?username=ChristopherCochet&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=false" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristopherCochet&layout=compact&langs_count=10&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Top Languages" width="48%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChristopherCochet&theme=tokyo-night&hide_border=false&area=true" alt="Contribution Graph" width="98%" />
-
-</div>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChristopherCochet&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChristopherCochet&theme=default)
 
 ## 🚀 Featured Projects
 
