@@ -48,11 +48,14 @@ I'm a **Data Analytics & Data Science professional** based in **New Zealand** ðŸ
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=ChristopherCochet&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=ChristopherCochet&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=false" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristopherCochet&layout=compact&langs_count=10&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Top Languages" width="48%" />
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristopherCochet&layout=compact&theme=tokyonight)
+</div>
 
-![](https://streak-stats.demolab.com/?user=ChristopherCochet&theme=tokyonight)
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChristopherCochet&theme=tokyo-night&hide_border=false&area=true" alt="Contribution Graph" width="98%" />
 
 </div>
 
