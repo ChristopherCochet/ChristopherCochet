@@ -47,7 +47,6 @@ I'm a **Data Analytics & Data Science professional** based in **New Zealand** �
 ## 📊 Top Languages by Repository
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChristopherCochet&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChristopherCochet&theme=default)
 
 ## 🚀 Featured Projects
 
