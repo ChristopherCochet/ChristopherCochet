@@ -11,12 +11,16 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Data Analytics & Data Science professional** based in **New Zealand** 🇳🇿, passionate about bridging the gap between business and technology—what I call being a [purple profile](https://deloitte.wsj.com/articles/purple-people-at-the-heart-of-cognitive-tech-1452142924).
+I'm an **Analytics Engineering professional** based in **New Zealand** 🇳🇿, specializing in building scalable data pipelines, transforming raw data into actionable insights, and enabling data-driven decision making through modern data stack solutions.
 
+**Core Focus:**
 - 🔭 Currently working at **[Canva](https://www.canva.com)**, empowering millions to create amazing designs
-- 🎯 Focused on end-to-end ML pipelines and cloud-native data solutions
+- 🏗️ Building scalable data pipelines and modern data infrastructure
+- 🤖 Cloud ML deployment and model operationalization
+- 📊 AWS infrastructure and business intelligence integrations
+- 🔄 MLOps practices, experiment tracking, and CI/CD pipelines
+- 🛠️ Modern data engineering with dbt and ELT orchestration
 - 🌋 Fun fact: I love hiking volcanoes!
-- 💬 Always happy to chat about data, analytics, and cloud architecture
 
 ## 🛠️ Tech Stack
 
